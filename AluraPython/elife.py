@@ -7,3 +7,4 @@ elif numero < 0:
     print("O número é negativo.")
 else:
     print("O número é zero.")
+# Verifica se um número é par ou ímpar
